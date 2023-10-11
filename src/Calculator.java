@@ -1,3 +1,7 @@
+/**William Go
+ * CS 4800
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
